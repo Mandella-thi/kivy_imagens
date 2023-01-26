@@ -1,0 +1,9 @@
+O programa pega uma palavra pesquisa uma foto sobre a palavra no google e retorna a
+foto da palavra sendo exibida na tela.
+utilizar arquino ".kv" para layout da primeira tela
+
+Classes utilizdas:
+        app;
+        ScrenManager
+        Screen
+        widget(button, textinput, image,etc)
